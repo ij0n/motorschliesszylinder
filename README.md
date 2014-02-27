@@ -13,5 +13,8 @@ Lock: http://www.amazon.de/ABUS-EC550-Zylinder-inkl-Schl%C3%BCssel/dp/B004W496P0
 
 Servo: http://www.generationrobots.com/de/401075-dynamixel-ax-12a-servomotor.html
 
+different servo: http://www.ebay.de/itm/DYNAMIXEL-AX-18A-/141191573754?pt=LH_DefaultDomain_0&hash=item20dfac70fa
+
 Notizen:
 c-lab-zylinder: 27,5 + 38 + innenmaß schraube
+
